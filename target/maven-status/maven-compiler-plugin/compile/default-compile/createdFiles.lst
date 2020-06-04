@@ -1,0 +1,3 @@
+com/example/hadoop/summation/MyReducer.class
+com/example/hadoop/summation/MyMapper.class
+com/example/hadoop/summation/NumberSum.class
